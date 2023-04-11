@@ -7,4 +7,10 @@
     <option name="apiVersion" value="1.8" />
     <option name="languageVersion" value="1.8" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="KotlinJpsPluginSettings">
+    <option name="version" value="1.8.20-release" />
+  </component>
+>>>>>>> c267287 (Initial commit)
 </project>
